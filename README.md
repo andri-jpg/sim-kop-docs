@@ -1,6 +1,6 @@
 # Koperasi Produsen CU. Tuandibangarna Sejahtera Bersama - Panduan Penggunaan
 
-\n\n---\n\n# Buku Panduan Pengguna SIM-KOP
+# Buku Panduan Pengguna SIM-KOP
 **(Sistem Informasi Manajemen Koperasi)**
 
 ---
@@ -271,7 +271,7 @@ Whatsapp: 083186459539
 
 ---
 *Dokumen ini diperbarui secara otomatis oleh sistem.*
-\n\n---\n\n# Panduan Setup Multi-Komputer (Embedded Database)
+# Panduan Setup Multi-Komputer (Embedded Database)
 
 Aplikasi SIM-KOP versi terbaru ini sudah **Otomatis** membawa database sendiri. Anda **TIDAK PERLU** lagi menginstall Laragon, XAMPP, atau MySQL secara terpisah.
 
